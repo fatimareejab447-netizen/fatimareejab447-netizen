@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! I'm Reejab Fatima 👋
 
-<!--
-**fatimareejab447-netizen/fatimareejab447-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student @ COMSATS University Islamabad, Wah Cantt Campus (3rd Semester)
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** C++, SQL
+- **Tools:** Oracle APEX, Git, GitHub
+- **Subjects:** Data Structures, Database Systems, Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🏦 Bank Management System (C++)
+- Implemented using Linked List, BST, Stack & Queue
+- No OOP, purely procedural logic
+
+### ✈️ Smart Trip Planner (Oracle APEX)
+- Role-based access control with Authorization Schemes
+- 4-table database: Users, Destinations, Packages, Bookings
+
+## 📫 Connect with Me
+- 📍 Wah Cantt, Pakistan
+- 💼 Open to internships in Rawalpindi/Islamabad
